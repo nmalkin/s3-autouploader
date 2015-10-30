@@ -1,0 +1,11 @@
+argh==0.26.1
+boto3==1.1.4
+botocore==1.2.7
+docutils==0.12
+futures==2.2.0
+jmespath==0.9.0
+pathtools==0.1.2
+python-dateutil==2.4.2
+PyYAML==3.11
+six==1.9.0
+watchdog==0.8.3
