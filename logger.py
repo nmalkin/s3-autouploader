@@ -1,4 +1,6 @@
-# This module provides a shared logger.
+"""
+This module provides a shared logger.
+"""
 
 import logging
 

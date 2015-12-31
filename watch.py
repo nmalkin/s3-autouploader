@@ -1,5 +1,7 @@
-# This module manages watching a directory for new files and executing requested
-# code when they appear.
+"""
+This module manages watching a directory for new files and executing requested
+code when they appear.
+"""
 
 from logger import logger
 from time import sleep

@@ -1,4 +1,6 @@
-# This module provides a helper method for uploading files to S3.
+"""
+This module provides a helper method for uploading files to S3.
+"""
 
 import boto3
 import os
